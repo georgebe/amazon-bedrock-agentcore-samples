@@ -1,6 +1,7 @@
 boto3
-langchain_aws
+langchain
 bedrock_agentcore
-langgraph 
-langgraph-checkpoint-aws 
+langgraph
+langgraph-checkpoint-aws
 langchain-aws
+bedrock-agentcore-starter-toolkit==0.1.19
