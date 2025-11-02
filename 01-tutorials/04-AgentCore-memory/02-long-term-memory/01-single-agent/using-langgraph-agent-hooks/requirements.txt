@@ -1,7 +1,7 @@
-boto3
+boto3>=1.35.0
 langchain
-bedrock_agentcore
-langgraph
-langgraph-checkpoint-aws
 langchain-aws
-bedrock-agentcore-starter-toolkit==0.1.19
+langgraph
+langgraph-checkpoint-aws>=0.2.0
+bedrock_agentcore==1.0.3
+bedrock-agentcore-starter-toolkit==0.1.26
